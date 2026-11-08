@@ -13,12 +13,6 @@ An end-to-end data science and machine learning project predicting whether the f
 - [Key Features & Highlights](#-key-features--highlights)
 - [Project Architecture](#-project-architecture)
 - [Tech Stack](#-tech-stack)
-- [Dataset & Data Pipeline](#-dataset--data-pipeline)
-- [Exploratory Data Analysis & Insights](#-exploratory-data-analysis--insights)
-- [Machine Learning & Model Performance](#-machine-learning--model-performance)
-- [Interactive Dashboard](#-interactive-dashboard)
-- [Installation & Setup](#-installation--setup)
-- [License & Acknowledgments](#-license--acknowledgments)
 
 ---
 
