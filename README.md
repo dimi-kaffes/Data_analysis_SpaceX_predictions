@@ -12,7 +12,6 @@ An end-to-end data science and machine learning project predicting whether the f
 - [Project Overview](#-project-overview)
 - [Key Features & Highlights](#-key-features--highlights)
 - [Project Architecture](#-project-architecture)
-- [Tech Stack](#-tech-stack)
 
 ---
 
